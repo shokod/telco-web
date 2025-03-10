@@ -1,10 +1,9 @@
 import { ArrowRight, CheckCircle, Phone, Star, User, Shield } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
-
+import { Logo } from "@/components/ui/logo"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Logo } from "@/components/ui/logo"
 
 export default function Home() {
   return (
@@ -15,16 +14,16 @@ export default function Home() {
             <Logo size="lg" />
           </div>
           <nav className="hidden md:flex items-center space-x-6">
-            <Link href="#" className="text-sm font-medium hover:text-primary">
+            <Link href="/" className="text-sm font-medium hover:text-primary">
               Home
             </Link>
-            <Link href="#products" className="text-sm font-medium hover:text-primary">
+            <Link href="/products" className="text-sm font-medium hover:text-primary">
               Products
             </Link>
-            <Link href="#about" className="text-sm font-medium hover:text-primary">
+            <Link href="/about" className="text-sm font-medium hover:text-primary">
               About Us
             </Link>
-            <Link href="#contact" className="text-sm font-medium hover:text-primary">
+            <Link href="/contact" className="text-sm font-medium hover:text-primary">
               Contact
             </Link>
           </nav>
