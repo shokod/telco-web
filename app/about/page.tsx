@@ -55,14 +55,14 @@ export default function AboutPage() {
                   Our Mission: Protecting Workers Since 2003
                 </h1>
                 <p className="text-lg text-muted-foreground">
-                  SafetyFirst has been at the forefront of workplace safety equipment for over two decades, dedicated to
+                  TIS Global (Pty) Ltd has been at the forefront of workplace safety equipment for over two decades, dedicated to
                   providing high-quality protective gear that saves lives.
                 </p>
               </div>
               <div className="relative h-[400px] rounded-xl overflow-hidden">
                 <Image
                   src="https://images.unsplash.com/photo-1521791055366-0d553872125f?q=80&w=2069&auto=format&fit=crop"
-                  alt="SafetyFirst team"
+                  alt="TIS Global (Pty) Ltd team"
                   fill
                   className="object-cover"
                 />
@@ -86,7 +86,7 @@ export default function AboutPage() {
               <div className="space-y-6 order-2 md:order-1">
                 <h3 className="text-2xl font-bold">Founded on Safety Principles</h3>
                 <p className="text-muted-foreground">
-                  SafetyFirst was founded in 2003 by John Harrington, a former construction safety manager who
+                  TIS Global (Pty) Ltd was founded in 2003 by John Harrington, a former construction safety manager who
                   recognized the need for higher quality safety equipment after witnessing preventable workplace
                   accidents.
                 </p>
@@ -117,7 +117,7 @@ export default function AboutPage() {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Core Values</h2>
-              <p className="text-muted-foreground">These principles guide everything we do at SafetyFirst.</p>
+              <p className="text-muted-foreground">These principles guide everything we do at TIS Global (Pty) Ltd.</p>
             </div>
 
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -181,7 +181,7 @@ export default function AboutPage() {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Leadership Team</h2>
-              <p className="text-muted-foreground">Meet the experts behind SafetyFirst's commitment to excellence.</p>
+              <p className="text-muted-foreground">Meet the experts behind TIS Global (Pty) Ltd's commitment to excellence.</p>
             </div>
 
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -242,7 +242,7 @@ export default function AboutPage() {
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Certifications</h2>
               <p className="text-muted-foreground">
-                SafetyFirst maintains the highest industry standards and certifications.
+                TIS Global (Pty) Ltd maintains the highest industry standards and certifications.
               </p>
             </div>
 
@@ -303,7 +303,7 @@ export default function AboutPage() {
           <div className="container mx-auto px-4 max-w-4xl">
             <div className="bg-primary text-primary-foreground p-8 rounded-xl">
               <div className="text-center space-y-4">
-                <h2 className="text-2xl md:text-3xl font-bold">Ready to Partner with SafetyFirst?</h2>
+                <h2 className="text-2xl md:text-3xl font-bold">Ready to Partner with TIS Global (Pty) Ltd?</h2>
                 <p className="text-primary-foreground/80 max-w-2xl mx-auto">
                   Contact our team today to discuss how we can help improve safety standards at your workplace with our
                   premium safety equipment.
