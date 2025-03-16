@@ -103,7 +103,7 @@ export default function ContactPage() {
                   </div>
                   <h3 className="text-xl font-bold mb-2">Email Us</h3>
                   <p className="text-muted-foreground mb-2">
-                    Send us an email and we'll respond within 24 hours.
+                    Send us an email and we&apos;ll respond within 24 hours.
                   </p>
                   <p className="font-normal">Sales: <span  className="font-light">(555) 123-4567</span></p>
                   <p className="font-normal">Support: <span  className="font-light">(555) 123-4567</span></p>

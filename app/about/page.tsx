@@ -96,7 +96,7 @@ export default function AboutPage() {
                   oil and gas.
                 </p>
                 <p className="text-muted-foreground">
-                  Throughout our growth, we've maintained our founding principle: that every worker deserves the highest
+                  Throughout our growth, we&apos;ve maintained our founding principle: that every worker deserves the highest
                   quality protection to return home safely at the end of each day.
                 </p>
               </div>

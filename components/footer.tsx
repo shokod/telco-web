@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Logo } from "./logo";
-import { FaFacebook, FaLinkedin, FaPhoneSquareAlt } from "react-icons/fa";
+import { FaFacebook, FaLinkedin} from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { TbLocationPin } from "react-icons/tb";
 import { LuMail } from "react-icons/lu";
